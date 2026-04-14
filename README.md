@@ -63,10 +63,10 @@ Some time ago, while clearing out my old bookmarks, I saw that there was a subre
 
 ## ⚠️ Known Issues
 - On the **kitty** terminal, the program will sometimes output `Gi=31;OK^[\^[[?62;52;c` above the image. This is an issue with viuer.
-- On the Windows Terminal/Powershell, the program will tell you: `Your terminal's image protocol is not supported.`. This is intentional, as the Windows Terminal does not truly support images. *(version 1.22 added support for Sixel, but it's terrible and has background artifacts)* Consider using [WezTerm](https://github.com/wezterm/wezterm) on Windows.
+- Windows is **NOT** supported. Maybe it will be in the future, but Windows is a terrible operating system and is an absolute displeasure to use.
 
 ## Credits
 - [pokeget-plus](https://github.com/Criomby/pokeget-plus) was the main inspiration behind this.
 - Artifact images were sourced from someone who shall remain nameless. 
-Chat emojis were sourced from the [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki). 
+- Chat emojis were sourced from the [Genshin Impact Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki). 
 - All images used are property of [miHoYo / HoYoverse / COGNOSPHERE PTE. LTD.](https://en.wikipedia.org/wiki/MiHoYo). 
