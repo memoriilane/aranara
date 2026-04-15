@@ -58,6 +58,7 @@ Flags:
 - `--npc` / `(-n)` 
 - `--artifact` / `(-a)` 
 - `--randomize` / `(-r) `
+- `--width` / `(-w)`
 
 Please see the following for:
 - [All emojis *("Paimon's Paintings")*](https://genshin-impact.fandom.com/wiki/Paimon%27s_Paintings)
