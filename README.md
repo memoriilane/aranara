@@ -11,9 +11,9 @@
 - The images are embedded into the binary, so nothing else has to be downloaded. Works fully offline. *(which is why the program is 120mb+)*
 
 ## 🚧 TO-DO:
-- Add more sets of emojis:
+- Add the remaining sets of emojis:
   - Kiehl's *(Genshin Impact × Kiehl's (2023))* 
-  - Fortuitous Encounter the Coral Sea *(Genshin Impact × Xiaohongshu (2023))*
+  - ~~Fortuitous Encounter the Coral Sea *(Genshin Impact × Xiaohongshu (2023))*~~ *(might not be added since the only available images are 120x120)*
   - Migration to the Coral Sea *(Genshin Impact × Xiaohongshu (2024))*
 - Add weapon images ***(?)**
 
