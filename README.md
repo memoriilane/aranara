@@ -12,9 +12,7 @@
 
 ## 🚧 TO-DO:
 - Add the remaining sets of emojis:
-  - Kiehl's *(Genshin Impact × Kiehl's (2023))* 
-  - ~~Fortuitous Encounter the Coral Sea *(Genshin Impact × Xiaohongshu (2023))*~~ *(might not be added since the only available images are 120x120)*
-  - Migration to the Coral Sea *(Genshin Impact × Xiaohongshu (2024))*
+  - A few of the collab sets (KFC, ANTA, Pizza Hut, etc.)
 - Add weapon images ***(?)**
 
 ## Requirements:
