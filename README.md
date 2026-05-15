@@ -7,7 +7,7 @@
 
 ## Features:
 - Display character or NPC chat emojis in your terminal, as well as artifacts.
-- Has all artifact images & chat emojis *(Set #1 - Set #48, Genshin Impact × OnePlus Keqing Set)* up until game version **Luna V** *(25 Feb 2026)*.
+- Has all artifact images & chat emojis *(Set #1 - Set #48, Genshin Impact × OnePlus Keqing Set)* up until game version **Luna VI** *(08 Apr 2026)*.
 - The images are embedded into the binary, so nothing else has to be downloaded. Works fully offline. *(which is why the program is 120mb+)*
 
 ## 🚧 TO-DO:
@@ -58,6 +58,7 @@ Flags:
 - `--npc` / `(-n)` 
 - `--artifact` / `(-a)` 
 - `--randomize` / `(-r) `
+- `--width` / `(-w)`
 
 Please see the following for:
 - [All emojis *("Paimon's Paintings")*](https://genshin-impact.fandom.com/wiki/Paimon%27s_Paintings)
